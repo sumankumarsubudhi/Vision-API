@@ -3,7 +3,7 @@
 
 ## Initial Set-Up
 
-[This page](https://cloud.google.com/vision/docs/reference/libraries#client-libraries-install-python)will guide you through the set-up process. Using the pip Python package installer, you can install the Vision client library with:
+[This page](https://cloud.google.com/vision/docs/reference/libraries#client-libraries-install-python) will guide you through the set-up process. Using the pip Python package installer, you can install the Vision client library with:
 
 _pip install --upgrade google-cloud-vision_
 
