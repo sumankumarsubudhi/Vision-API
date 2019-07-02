@@ -9,7 +9,7 @@ _pip install --upgrade google-cloud-vision_
 
 Next, follow the steps [here](https://cloud.google.com/sdk/docs/) to install the Google Cloud SDK to your computer.
 
-Finally - run this command to authenticate your computer and the SDK.
+Finally, run this command to authenticate your computer and the SDK.
 
 _gcloud auth application-default login_
 
